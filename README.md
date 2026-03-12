@@ -42,7 +42,7 @@ Measured customer retention by identifying repeat customers.
 ![Revenue Trend](revenue_trend.png)
 
 ### Top Product Categories
-![Top Categories](top_product_categories.png)
+![Top Categories](top_products_categories.png)
 
 ### Top Customer Cities
 ![Cities](top_customer_cities.png)
